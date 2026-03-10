@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Backend Software Engineer
+
+Tech Stack
+Java • Spring Boot • PostgreSQL • MongoDB • AWS • Kubernetes
+
+Highlighted Projects
+- springboot-api
+- event-driven-system
+- batch-processing-service
